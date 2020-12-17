@@ -6,6 +6,7 @@
 *.exe
 *.o
 *.so
+*.pyc
 
 # Packages #
 ############
@@ -47,6 +48,9 @@ Thumbs.db
 */target
 /build
 */build
+/migrations
+*/migrations
+*/__pycache__
 
 # IntelliJ specific files/directories
 out
